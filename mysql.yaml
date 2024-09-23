@@ -3,4 +3,6 @@
   become: yes
   roles:
   - mysql
+
+  # all the script is placed in a proper order in the roles folder
   
