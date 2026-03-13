@@ -6,5 +6,6 @@
   roles:
   - mysql
 
-  # all the script is placed in a proper order in the roles folder
+  # all the script is placed in a proper order in the roles folder 
+  # that includes tasks, vars, handlers etc. and we are calling the rolre here in the play book.
   
