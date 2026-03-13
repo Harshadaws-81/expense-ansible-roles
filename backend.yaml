@@ -4,4 +4,4 @@
   roles:
   - backend
 
-  # everything is in roles
+# all the script is placed in a proper order in the roles backend folder
