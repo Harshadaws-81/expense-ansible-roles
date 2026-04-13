@@ -1,2 +1,4 @@
 Backend_HOST: backend.harshadaws81s.online
+app_location: /usr/share/nginx/html
+component: frontend
 
