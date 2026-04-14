@@ -2,7 +2,7 @@
   hosts: mysql
   become: yes  # remote server
   vars_files:
-  - /var/expense/credentials_mysql.yaml #  ansible server
+  - /var/expense/credentials_mysql.yaml #  ansible vault [credentials are kept inside the ansible vault]
   roles:
   - mysql
 
